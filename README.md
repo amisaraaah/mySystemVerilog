@@ -1,2 +1,0 @@
-# mySystemVerilog
-quick silicon
