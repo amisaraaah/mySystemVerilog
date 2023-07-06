@@ -1,3 +1,4 @@
+// 0 → 1 → 1 → 1 → 2 → 2 → 3 → 4 → 5 → 7 → 9 → 12 → 16 → 21 → 28 → 37 → 
 module seq_generator (
   input   logic        clk,
   input   logic        reset,
